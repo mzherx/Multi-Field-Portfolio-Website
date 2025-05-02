@@ -33,4 +33,4 @@ Once you receive the code, follow these steps to run the project locally:
 npm install
 
 # Start the development server
-npm run ddev
+npm run dev
